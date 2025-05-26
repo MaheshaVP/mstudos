@@ -5,7 +5,7 @@
 }
 
 .main_box{
-    background: url("photo.jpg");
+    background: url("/image/photo.jpg");
     height: 100vh;
     background-size:cover ;
 }
@@ -128,7 +128,7 @@
 /* responsive mobile */
 @media(max-width: 420px){
     .main_box{
-        background: url("photo.jpg") no-repeat center center;
+        background: url("/image/photo.jpg") no-repeat center center;
         background-size: cover;
         height: 100vh;
         width: 100%;
